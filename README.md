@@ -22,28 +22,6 @@ I love building real-world projects and experimenting with system security, pene
 
 ---
 
-## 💻 Tech Stack
-
-- Python
-- Flask
-- HTML / CSS / JavaScript
-- Linux
-- Git & GitHub
-- Basic Networking & Security Concepts
-- AI / ML Fundamentals
-
----
-
-## 🔥 What I Build
-
-- Cybersecurity practice projects  
-- AI/ML-based applications  
-- Automation tools  
-- Web-based systems  
-- Experimental security tools  
-
----
-
 Developer by DarkLoverBoi
 name :shebin k babu
 
